@@ -28,7 +28,3 @@ To run this project, you will need to add the following environment variables to
 
 ![App Screenshot](https://iili.io/dfB47rF.png)
 
-## Authors
-
-- [@LinkedIn](www.linkedin.com/in/david-goyal)
-- [@X](https://x.com/David__Goyal)
